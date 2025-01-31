@@ -6,6 +6,7 @@ This project demonstrates the use of reusable components in a React application 
 
 
 📦 CSEC-DEV-REACT-JS-DAY-ONE
+
  ┣ 📂node_modules
  ┣ 📂 public
  ┣ 📂 assets
