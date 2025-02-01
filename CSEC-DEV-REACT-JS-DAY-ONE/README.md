@@ -71,6 +71,9 @@ Typography: font-size, color, font-weight.
 🎯 Key Takeaways
 
 ✔ Learned how to create and use reusable components in React.
+
 ✔ Styled components effectively using CSS.
+
 ✔ Integrated the components into a page and rendered it in App.js.
+
 ✔ Followed best practices for structuring a React project.
